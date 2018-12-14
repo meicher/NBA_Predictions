@@ -1,0 +1,2 @@
+Date,Team,Opponent,Line,PredDiff,RealDiff,Home,B2B,Opp.B2B,mean_Diff,mean_Win,mean_Diff_Opp,mean_FGA,mean_FGA_Opp,mean_PTS,mean_PTS_Opp,mean_Win_Opp,mean_FTA,mean_FTA_Opp,NET_Rtng,NET_Rtng_Opp,AstTO,Ast%,AstTO_Opp,Ast%_Opp
+12/6/2018,Celtics,Knicks,-13.5,9,,1,0,0,7.9,0.6,-3.9,90.7,90.8,112.9,113.1,0.4,18.9,26,7.3,-3.1,1.91,0.623,1.39,0.477
